@@ -1,0 +1,2 @@
+# VenomShield-Designing-a-Drug-Target-for-Snakebite-Treatment
+Introducing VenomShield, an innovative research project focused on designing a drug target to prevent the interaction between the toxin in snake venom and acetylcholinesterase. Snakebite, classified as a neglected tropical disease, poses a significant health risk and respiratory involvement being the most clinically important neurotoxic effects.
